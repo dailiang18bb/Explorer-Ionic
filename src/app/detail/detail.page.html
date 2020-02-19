@@ -1,0 +1,56 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="home" class="show-back-button"></ion-back-button>
+    </ion-buttons>
+    <ion-title>{{wikiTerm}}</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+
+  <!-- <button (click)="stopSpeaking()" >Stop</button> -->
+  <!-- <button (click)="splitWikiContent()">Stop</button> -->
+
+
+  <!-- <p>{{speakingFlag}}</p> -->
+
+  <ion-card class="content-card">
+    <ion-card-header class="content-card-header" color="primary">
+      <p>Brief
+        <ion-icon id="speak-icon-1" name="volume-high" (click)="speak(deleteTag(wikiSummaryArray[0]),'speak-icon-1')"></ion-icon>
+      </p>
+    </ion-card-header>
+
+    <ion-card-content class="content-card-content" id="first-card">
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card class="content-card">
+    <ion-card-header class="content-card-header" color="primary">
+      <p>
+        Summary
+        <ion-icon id="speak-icon-2" name="volume-high" (click)="speak(deleteTag(wikiSummaryArray[1]),'speak-icon-2')"></ion-icon>
+      </p>
+    </ion-card-header>
+    <ion-card-content class="content-card-content" id="second-card">
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card class="content-card">
+      <ion-card-header class="content-card-header" color="primary">
+        <p>
+          More
+          <ion-icon id="speak-icon-3" name="volume-high" (click)="speak(deleteTag(wikiSummaryArray[2]),'speak-icon-3')"></ion-icon>
+        </p>
+      </ion-card-header>
+      <ion-card-content class="content-card-content" id="third-card">
+      </ion-card-content>
+    </ion-card>
+
+
+
+
+  <!-- <p id="demo"></p> -->
+
+</ion-content>

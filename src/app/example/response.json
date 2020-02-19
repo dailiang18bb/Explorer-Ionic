@@ -1,0 +1,237 @@
+{
+    "responses": [
+      {
+        "webDetection": {
+          "webEntities": [
+            {
+              "entityId": "/m/02lv2v",
+              "score": 1.6940304,
+              "description": "Pace University"
+            },
+            {
+              "entityId": "/m/0db12s",
+              "score": 1.2752191,
+              "description": "One Pace Plaza"
+            },
+            {
+              "entityId": "/m/0bwfn",
+              "score": 1.2679772,
+              "description": "New York University"
+            },
+            {
+              "entityId": "/m/023zl",
+              "score": 1.109295,
+              "description": "City University of New York"
+            },
+            {
+              "entityId": "/m/04n2ll7",
+              "score": 1.1004708,
+              "description": "New York Times Building"
+            },
+            {
+              "entityId": "/m/06thjt",
+              "score": 0.97409236,
+              "description": "The New School Welcome Center"
+            },
+            {
+              "entityId": "/m/02301",
+              "score": 0.90561247,
+              "description": "City College of New York"
+            },
+            {
+              "entityId": "/m/01w5m",
+              "score": 0.82310253,
+              "description": "Columbia University"
+            },
+            {
+              "entityId": "/m/07tf8",
+              "score": 0.7012,
+              "description": "University"
+            },
+            {
+              "entityId": "/m/06zdj",
+              "score": 0.6754,
+              "description": "School"
+            }
+          ],
+          "fullMatchingImages": [
+            {
+              "url": "https://crain-platform-cny-prod.s3.amazonaws.com/s3fs-public/REAL_ESTATE_170209880_AR_-1_BPYLUKKXVYUA.jpg"
+            },
+            {
+              "url": "http://sunmoon.edu.vn/upload/tintuc/1523845340One-Pace-Plaza.jpg"
+            },
+            {
+              "url": "http://sunmoon.edu.vn/upload/tintuc/1536137548One-Pace-Plaza.jpg"
+            },
+            {
+              "url": "https://cdn.vox-cdn.com/thumbor/fuAkhEx8011aNeteSDlTMNbqDzw=/0x0:1024x683/1200x800/filters:focal(431x261:593x423)/cdn.vox-cdn.com/uploads/chorus_image/image/53164399/181198814_52b5d06d6e_b.0.jpg"
+            },
+            {
+              "url": "http://nogoonjade.mn/uploads/posts/2018-02/1518054286_181198814_52b5d06d6e_b.0.jpg"
+            },
+            {
+              "url": "http://c1.staticflickr.com/1/69/181198814_52b5d06d6e_b.jpg"
+            },
+            {
+              "url": "https://cdn.vox-cdn.com/uploads/chorus_image/image/54137183/181198814_52b5d06d6e_b.0.jpg"
+            },
+            {
+              "url": "http://photos.wikimapia.org/p/00/03/52/93/53_big.jpg"
+            },
+            {
+              "url": "https://duhocue.edu.vn/public/uploads/images/hinh-tin-tuc/Pace-University-Top-2-tr%C6%B0%E1%BB%9Dng-kinh-t%E1%BA%BF-h%C3%A0ng-%C4%91%E1%BA%A7u-c%E1%BB%A7a-M%E1%BB%B9.jpg"
+            }
+          ],
+          "partialMatchingImages": [
+            {
+              "url": "https://wx2.sinaimg.cn/large/005F3Wl6ly1ft7s3vf1baj312w0px4qq.jpg"
+            },
+            {
+              "url": "https://mmbiz.qpic.cn/mmbiz_jpg/Flic2XfR71Iw5VbICWiaicq38VA8VvK0D7EDCuFvCXOvWbHfsUqZNa80k9k9KABZacWwVgmuXYhHtVpfQZIFATTSQ/640?wx_fmt=jpeg"
+            },
+            {
+              "url": "https://crain-platform-cny-prod.s3.amazonaws.com/s3fs-public/styles/800x600/public/REAL_ESTATE_170209880_AR_-1_BPYLUKKXVYUA.jpg"
+            },
+            {
+              "url": "https://wx2.sinaimg.cn/wap720/005F3Wl6ly1ft7s3vf1baj312w0px4qq.jpg"
+            },
+            {
+              "url": "http://www.worldwide-edu.vn/vnt_upload/study/09_2015/tap-doan-kaplan.jpg"
+            },
+            {
+              "url": "https://media.glassdoor.com/l/5328/pace-university-office.jpg"
+            }
+          ],
+          "pagesWithMatchingImages": [
+            {
+              "url": "https://ny.curbed.com/2017/2/9/14559338/pace-university-expansion-lower-manhattan-fidi",
+              "pageTitle": "Pace \u003cb\u003eUniversity\u003c/b\u003e launches $190M expansion effort in the Financial ...",
+              "fullMatchingImages": [
+                {
+                  "url": "https://cdn.vox-cdn.com/thumbor/fuAkhEx8011aNeteSDlTMNbqDzw=/0x0:1024x683/1200x800/filters:focal(431x261:593x423)/cdn.vox-cdn.com/uploads/chorus_image/image/53164399/181198814_52b5d06d6e_b.0.jpg"
+                }
+              ]
+            },
+            {
+              "url": "https://www.crainsnewyork.com/article/20170209/REAL_ESTATE/170209880/pace-university-plans-200-million-renovation-of-its-lower-manhattan-campus-as-city-becomes-a-playground-for-st",
+              "pageTitle": "Pace \u003cb\u003eUniversity\u003c/b\u003e plans $200 million renovation of its lower Manhattan ...",
+              "fullMatchingImages": [
+                {
+                  "url": "https://crain-platform-cny-prod.s3.amazonaws.com/s3fs-public/styles/800x600/public/REAL_ESTATE_170209880_AR_-1_BPYLUKKXVYUA.jpg"
+                },
+                {
+                  "url": "https://crain-platform-cny-prod.s3.amazonaws.com/s3fs-public/REAL_ESTATE_170209880_AR_-1_BPYLUKKXVYUA.jpg"
+                }
+              ]
+            },
+            {
+              "url": "https://www.glassdoor.com/Photos/Pace-University-Office-Photos-IMG43909.htm",
+              "pageTitle": "frontal view of school... - Pace \u003cb\u003eUniversity\u003c/b\u003e Office Photo | Glassdoor",
+              "partialMatchingImages": [
+                {
+                  "url": "https://media.glassdoor.com/l/5328/pace-university-office.jpg"
+                }
+              ]
+            },
+            {
+              "url": "https://ny.curbed.com/2017/4/7/15223084/pace-university-financial-district-expansion",
+              "pageTitle": "Pace \u003cb\u003eUniversity&#39;s\u003c/b\u003e $190M Financial District expansion gets ...",
+              "fullMatchingImages": [
+                {
+                  "url": "https://cdn.vox-cdn.com/thumbor/XFmZaxcn-KETSxn9TrBYtsanaS0=/0x0:1024x683/1200x800/filters:focal(431x261:593x423)/cdn.vox-cdn.com/uploads/chorus_image/image/54137185/181198814_52b5d06d6e_b.0.jpg"
+                }
+              ]
+            },
+            {
+              "url": "https://www.glassdoor.co.in/Photos/Pace-University-Office-Photos-IMG43909.htm",
+              "pageTitle": "frontal view of school... - Pace \u003cb\u003eUniversity\u003c/b\u003e Office Photo | Glassdoor.co.in",
+              "partialMatchingImages": [
+                {
+                  "url": "https://media.glassdoor.com/l/5328/pace-university-office.jpg"
+                }
+              ]
+            },
+            {
+              "url": "https://ny.curbed.com/2017/4/7/15223084/pace-university-financial-district-expansion/comment/423492933",
+              "pageTitle": "Pace \u003cb\u003eUniversity&#39;s\u003c/b\u003e $190M Financial District expansion gets ...",
+              "fullMatchingImages": [
+                {
+                  "url": "https://cdn.vox-cdn.com/thumbor/XFmZaxcn-KETSxn9TrBYtsanaS0=/0x0:1024x683/1200x800/filters:focal(431x261:593x423)/cdn.vox-cdn.com/uploads/chorus_image/image/54137185/181198814_52b5d06d6e_b.0.jpg"
+                }
+              ]
+            },
+            {
+              "url": "https://www.glassdoor.co.uk/Photos/Pace-University-Office-Photos-IMG43909.htm",
+              "pageTitle": "frontal view of school... - Pace \u003cb\u003eUniversity\u003c/b\u003e Office Photo | Glassdoor.co ...",
+              "partialMatchingImages": [
+                {
+                  "url": "https://media.glassdoor.com/l/5328/pace-university-office.jpg"
+                }
+              ]
+            },
+            {
+              "url": "http://wikimapia.org/69318/Pace-University-New-York-City-campus-One-Pace-Plaza",
+              "pageTitle": "Pace \u003cb\u003eUniversity\u003c/b\u003e - \u003cb\u003eNew York\u003c/b\u003e City campus - One Pace Plaza - Wikimapia",
+              "fullMatchingImages": [
+                {
+                  "url": "http://photos.wikimapia.org/p/00/03/52/93/53_big.jpg"
+                }
+              ]
+            },
+            {
+              "url": "https://www.glassdoor.ie/Photos/Pace-University-Office-Photos-IMG43909.htm",
+              "pageTitle": "frontal view of school... - Pace \u003cb\u003eUniversity\u003c/b\u003e Office Photo | Glassdoor.ie",
+              "partialMatchingImages": [
+                {
+                  "url": "https://media.glassdoor.com/l/5328/pace-university-office.jpg"
+                }
+              ]
+            },
+            {
+              "url": "http://learn-and-get-it.blogspot.com/2015/07/pace-university.html",
+              "pageTitle": "Pace \u003cb\u003eUniversity\u003c/b\u003e | Learn and Get it",
+              "fullMatchingImages": [
+                {
+                  "url": "https://c1.staticflickr.com/1/69/181198814_52b5d06d6e_b.jpg"
+                }
+              ]
+            }
+          ],
+          "visuallySimilarImages": [
+            {
+              "url": "https://cdn.vox-cdn.com/thumbor/lWJ4jUnuUf8HL2KOOtmU7tdOIJI=/0x0:1024x683/1400x1400/filters:focal(431x261:593x423):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/53164397/181198814_52b5d06d6e_b.0.jpg"
+            },
+            {
+              "url": "https://c8.alamy.com/comp/JCJ48B/pace-university-new-york-city-usa-JCJ48B.jpg"
+            },
+            {
+              "url": "http://www.helptostudy.com/wp-content/uploads/2018/07/Best-Computer-Science-Colleges-in-New-York-City-1.jpg"
+            },
+            {
+              "url": "http://img.groundspeak.com/waymarking/display/f6cda241-bac3-4f47-ada3-f5427d5ecc59.JPG"
+            },
+            {
+              "url": "http://www.nycago.org/Organs/NYC/img/HolyTrinChapelNYUExt.jpg"
+            },
+            {
+              "url": "https://c1.staticflickr.com/8/7387/11192284276_a44a62c350_m.jpg"
+            },
+            {
+              "url": "https://c8.alamy.com/comp/MMJ7NP/s-i-newhouse-school-of-public-communications-on-the-syracuse-university-campus-march-2018-MMJ7NP.jpg"
+            },
+            {
+              "url": "https://www.aecom.com/kw/wp-content/uploads/2015/09/20-PRC_NYUShanghai_01-e1443740384619-760x531.jpg"
+            }
+          ],
+          "bestGuessLabels": [
+            {
+              "label": "new york university"
+            }
+          ]
+        }
+      }
+    ]
+  }
+  
+  

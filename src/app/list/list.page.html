@@ -1,0 +1,52 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>
+      Search History
+    </ion-title>
+    <ion-buttons slot="end" (click)="presentAlertMultipleButtons()">
+      <ion-icon name="trash" color="primary" class="trash-button"></ion-icon>
+    </ion-buttons>
+  </ion-toolbar>
+
+</ion-header>
+
+<ion-content>
+  <ion-refresher slot="fixed" (ionRefresh)="doRefresh($event)">
+    <ion-refresher-content pullingIcon="arrow-dropdown" pullingText="Pull to refresh" refreshingSpinner="circles"
+      refreshingText="Refreshing...">
+    </ion-refresher-content>
+
+
+  </ion-refresher>
+
+  <ion-list>
+    <ion-item *ngFor="let item of storageArray.reverse()" (click)="nav(item.name)">
+      <!-- <ion-icon [name]="item.icon" slot="start"></ion-icon> -->
+      <img [src]="item.image" slot="start" height="100px" width="100px" />
+
+      <div>
+        <p class="item-list">{{item.name}}</p>
+        <p class="item-list">{{item.date}}</p>
+      </div>
+    </ion-item>
+
+    <p [hidden]='!showEmptyFlag'>
+      Go to home page open the camera, start Explore!
+    </p>
+  </ion-list>
+
+
+
+  <!--
+    <div *ngIf="selectedItem" padding>
+      You navigated here from <b>{{selectedItem.title }}</b>
+    </div>
+  -->
+  <!-- <img [src]="imgSrc" alt="search1" /> -->
+
+
+
+</ion-content>

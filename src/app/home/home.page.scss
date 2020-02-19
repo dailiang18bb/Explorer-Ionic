@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+.special-tip{
+  color: #ffce00;
+}
+
+#tips{
+  font-family: 'Lato', sans-serif;
+font-size: 24px;
+position: relative;
+
+-webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+-webkit-animation-duration: 2s; /* Safari 4.0 - 8.0 */
+animation-name: example;
+animation-duration: 2s;
+
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes example {
+  0%   {left:0px; top:150px;}
+  25%  { left:200px; top:100px;}
+  50%  { left:200px; top:50px;}
+  75%  { left:0px; top:25px;}
+  100% {left:0px; top:0px;}
+}
+
+/* Standard syntax */
+@keyframes example {
+  0%   {left:-50px; top:150px;}
+  25%  { left:50px; top:100px;}
+  50%  { left:-25px; top:50px;}
+  75%  { left:25px; top:25px;}
+  100% {left:0px; top:0px;}
+}
+
+.camera-button{
+  font-size: 24px;
+}
+
+#lottie{
+  margin-top: 34px;
+  margin-bottom: 12px;
+}
+
+.welcome-card ion-img {
+  max-height: 35vh;
+  overflow: hidden;
+}
+
+.my-badge{
+  // position: relative;
+  // position: absolute;
+  right: 0px;
+}
+
+
+
+.vison-chip-wrap {
+    // opacity: 0;
+    // -webkit-transition: all 0.5s ease-in-out;
+    // -moz-transition: all 0.5s ease-in-out;
+    // -ms-transition: all 0.5s ease-in-out;
+    // -o-transition: all 0.5s ease-in-out;
+    // transition: all 0.5s ease-in-out;
+}
+
+.card-img{
+  height: 100%;
+  width: 100%;
+margin: 0;
+padding: 0;
+}
+
+.content-card-header{
+  font-size: 18px;
+  padding: 8px;
+}
+
+.content-card-content{
+  padding: 4px;
+}
+
+
+

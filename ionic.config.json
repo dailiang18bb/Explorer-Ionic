@@ -1,0 +1,8 @@
+{
+  "name": "explorer",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "23849141"
+}
